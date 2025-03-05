@@ -1,0 +1,34 @@
+Things to install:
+
+1. Visual Studio Code - IDE
+2. Python - Programming Language
+
+Libraries to install:
+1. Pygame - for graphics, sound etc
+2. Os     - for file path handling
+3. Random - for random number generation
+4. Cv2    - for video manipulation
+
+Note: Make sure the file path is correct for some element
+
+How to start:
+1. Run the Program
+2. Press Enter to start
+
+How to play:
+1. w - to move up
+2. s - to move down
+3. a - to move left 
+4. d - to move right
+5. space - to shoot laser
+6. k - for super attack
+7. shift - for faster movement speed
+
+Additional notes:
+1. Difficulty increase for levels (more enemy spawn, more difficult boss)
+2. Boss spawn at every 5 levels
+3. Reach the highest level you can get
+
+
+
+Enjoy :)
